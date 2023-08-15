@@ -1,0 +1,7 @@
+.TaskItem {
+    border: 2px solid #514a4a;
+    border-radius: 4px;
+    padding: 6px 8px;
+    margin-bottom: 6px;
+    width: 300px;
+  }
