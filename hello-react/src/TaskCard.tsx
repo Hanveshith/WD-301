@@ -13,7 +13,7 @@ const TaskCard = ({title,dueDate,completedAtDate,assigneeName}) => {
   let dateType = ''
   let date = ''
   if(dueDate){
-    dateType = "due on:";
+    dateType = "Due on:";
     date = dueDate;
   }
   else{
